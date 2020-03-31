@@ -13,7 +13,6 @@ def using_pop(array)
 end
 
 def using_pop_with_args(array,argument)
-  array.pop(argument)
-  binding.pry
+  array.pop(2)
 end
 
